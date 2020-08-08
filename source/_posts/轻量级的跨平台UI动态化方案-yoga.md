@@ -5,6 +5,7 @@ categories:
 - android
 tags:
 - 跨平台
+top: true
 ---
  时间已到2020年,作为有google官方研发,闲鱼背书的方案,Flutter是越来越火了.
 

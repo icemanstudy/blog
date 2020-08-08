@@ -118,13 +118,13 @@ indexbtn:
   enable: true
   name: Github
   icon: fab fa-github-alt
-  url: https://github.com/icemanstudy
+  url: https://gitee.com/iceman_bin
 
 # The configurations of the second line of home banner
 # icon/button will not show up if you leave the corresponding socialLink empty
 # 首页 banner 中的第二行个人信息配置，留空即不启用
 socialLink:
-  github:  https://github.com/icemanstudy
+  github:  https://gitee.com/iceman_bin
   email: 78952190@qq.com
   facebook: # https://www.facebook.com/xxx
   twitter: # https://twitter.com/xxx
@@ -140,7 +140,7 @@ socialLink:
 toc:
   enable: true
   heading: h2, h3, h4
-  collapseDepth: 0 # 目录默认展开层级
+  collapseDepth: 1 # 目录默认展开层级
   showToggleBtn: true # 是否显示切换TOC目录展开收缩的按钮
 
 # 代码块相关
