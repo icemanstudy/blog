@@ -1,0 +1,11 @@
+clone本工程注意事项.
+1.要先用hexo init下载相关npm modules.可以找个空文件夹执行该命令,然后将生成的npm modules文件夹拷过来
+2.主题中部分功能使用了第三方库,要先安装,不然会报错.
+代码高亮
+npm i -S hexo-prism-plugin
+拼音链接生成
+npm i hexo-permalink-pinyin --save
+搜索
+npm install hexo-generator-search --save
+字数统计
+npm i --save hexo-wordcount
