@@ -4,6 +4,8 @@ date: 2018-02-03 21:16:27
 categories:
 - android
 tags:
+index_img:
+- /img/post/11.jpg
 ---
 ### 生成绑定
 自动生成的绑定类将layout中定义的变量和view关联起来.根据前面的讨论,绑定类的名字和所在的包名是可以定制的.共同点是:所有的绑定类都继承于ViewDataBinding.

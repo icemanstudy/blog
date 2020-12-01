@@ -4,6 +4,8 @@ date: 2018-02-03 18:05:56
 categories:
 - android
 tags:
+index_img:
+- /img/post/19.jpg
 ---
 ### 原博客的图片丢失了,所以这是精简版,直接上结论.
 

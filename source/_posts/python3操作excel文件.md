@@ -4,6 +4,8 @@ date: 2018-02-02 10:01:32
 categories:
 - python
 tags:
+index_img:
+- /img/post/20.jpg
 ---
 前段时间遇到一个需求,要从一个有7000多行的excel文件中读取数据.第一反应是python应该能很方便的解析出需要的数据.
 

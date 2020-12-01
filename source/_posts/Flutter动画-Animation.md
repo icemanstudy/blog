@@ -5,7 +5,8 @@ categories:
 - Flutter
 tags:
 - 跨平台
-top: true
+index_img:
+- /img/post/16.jpg
 ---
 
 ### 核心类

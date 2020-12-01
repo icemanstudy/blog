@@ -3,6 +3,8 @@ title: android Q适配笔记
 date: 2019-07-06 18:12:36
 categories: android
 tags:
+index_img:
+- /img/post/3.jpg
 ---
 
 ### 关于非SDK接口管控

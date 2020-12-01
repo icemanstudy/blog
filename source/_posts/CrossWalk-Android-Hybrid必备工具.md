@@ -4,6 +4,8 @@ date: 2018-02-03 18:25:00
 categories:
 - android
 tags:
+index_img:
+- /img/post/8.jpg
 ---
 Hybrid就不多说了.除非是到后期各种拼用户体验拼特效拼交互,否则各个公司都要用上一用.
 

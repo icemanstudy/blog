@@ -4,6 +4,8 @@ date: 2018-02-02 10:00:49
 categories:
 - python
 tags:
+index_img:
+- /img/post/0.jpg
 ---
 ### 1.如何在虚拟主机上安装需要的模块
 

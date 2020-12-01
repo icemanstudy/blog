@@ -5,7 +5,8 @@ categories:
 - android
 tags:
 - shadow
-top: true
+index_img:
+- /img/post/5.jpg
 ---
 
 列表中的卡片式布局如今已经司空见惯了.通常来说卡片式布局有以下特征:

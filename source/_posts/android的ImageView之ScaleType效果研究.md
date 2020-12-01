@@ -4,6 +4,8 @@ date: 2018-02-03 17:56:26
 categories:
 - android
 tags:
+index_img:
+- /img/post/4.jpg
 ---
 这是网络上铺天盖地的scaletype详解:
 >ImageView的ScaleType决定了图片在View上显示时的样子，如何进行比例缩放，以及显示图片的整体还是部分。

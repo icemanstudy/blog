@@ -4,6 +4,8 @@ date: 2018-02-03 21:11:20
 categories:
 - android
 tags:
+index_img:
+- /img/post/14.jpg
 ---
 ### 数据模型
 任意POJO(简单java对象)都可以用于数据绑定.但是默认情况下,修改一个POJO的属性,并不会引发UI更新.databind真正的威力在于可以给予数据模型在数据发生变化时请求UI更新的能力.这里有3中不同的数据变更通知机制.

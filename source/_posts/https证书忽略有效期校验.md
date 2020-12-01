@@ -6,7 +6,8 @@ categories:
 - android
 tags:
 - https
-- sslhandshakeexception
+index_img:
+- /img/post/18.jpg
 ---
 
 最近公司的数据统计平台报了大量ssl证书错误.类似于这种

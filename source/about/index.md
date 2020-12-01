@@ -1,6 +1,5 @@
 ---
-title: about
-date: 2020-01-03 16:24:53
-type: "about"
-layout: "about"
+title: ¹ØÓÚÎÒtitle
+date: 2020-11-30 16:07:15
+layout: about
 ---

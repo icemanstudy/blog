@@ -4,6 +4,8 @@ date: 2018-02-03 18:48:57
 categories:
 - android
 tags:
+index_img:
+- /img/post/12.jpg
 ---
 **事件处理**
 databind机制允许你使用表达式来处理来自于view的事件,比如onclick.

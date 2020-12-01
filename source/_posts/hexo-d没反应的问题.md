@@ -4,6 +4,8 @@ date: 2018-02-01 15:34:11
 categories:
 - 其他
 tags:
+index_img:
+- /img/post/17.jpg
 ---
 想重新整理一下github上博客.结果死活deploy不上去.
 执行hexo d就是没反应.不报错也没输出.

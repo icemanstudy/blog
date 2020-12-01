@@ -4,6 +4,8 @@ date: 2018-02-03 21:19:40
 categories:
 - android
 tags:
+index_img:
+- /img/post/13.jpg
 ---
 ### 属性设置
 当一个被绑定属性变更时,绑定类会自动调用通过表达式和view关联起来的set方法.databind框架通常会自动决定调用哪个方法去设置对应的值.

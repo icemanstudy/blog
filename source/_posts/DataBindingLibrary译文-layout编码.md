@@ -4,6 +4,8 @@ date: 2018-02-03 18:57:57
 categories:
 - android
 tags:
+index_img:
+- /img/post/9.jpg
 ---
 ### Layout编码介绍
 #### Import

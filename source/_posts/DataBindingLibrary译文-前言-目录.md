@@ -4,6 +4,8 @@ date: 2018-02-03 18:47:18
 categories:
 - android
 tags:
+index_img:
+- /img/post/10.jpg
 ---
 ### 写在前面
 由于项目的技术债务太多.一直没有时间转向真正的mvvm,趁着最近进入全速开发期,有一些空闲,好好把mvvm整一整.
