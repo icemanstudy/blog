@@ -6,6 +6,8 @@ categories:
 tags:
 index_img:
 - /img/post/10.jpg
+excerpt:
+- python3什么时候能够普及呢.
 ---
 
 >注意：更新python千万不要把老版本的删除！新老版本是可以共存的，很多基本的命令、软件包都要依赖预装的老版本python的，比如yum。

@@ -6,6 +6,8 @@ categories:
 tags:
 index_img:
 - /img/post/4.jpg
+excerpt:
+- 原生ImageView的ScaleType有很多种,到底缩放效果如何?本文来细细探究.
 ---
 这是网络上铺天盖地的scaletype详解:
 >ImageView的ScaleType决定了图片在View上显示时的样子，如何进行比例缩放，以及显示图片的整体还是部分。

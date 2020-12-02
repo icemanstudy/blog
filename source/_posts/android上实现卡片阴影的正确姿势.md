@@ -7,6 +7,8 @@ tags:
 - shadow
 index_img:
 - /img/post/5.jpg
+excerpt:
+- android 4.4适配,你懂的.
 ---
 
 列表中的卡片式布局如今已经司空见惯了.通常来说卡片式布局有以下特征:

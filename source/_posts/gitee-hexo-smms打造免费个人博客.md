@@ -5,6 +5,8 @@ categories:
 - 其他
 index_img:
 - https://i.loli.net/2020/12/01/ily1SYcpaZsqbHL.png
+excerpt:
+- 程序员blog白嫖指南
 ---
  博客,英文名blog,大部分时候,是一个对外分(zhuang)享(bi)的地方.
 

@@ -6,6 +6,8 @@ categories:
 tags:
 index_img:
 - /img/post/17.jpg
+excerpt:
+- 吐槽一下hexo异常严格的格式要求.
 ---
 想重新整理一下github上博客.结果死活deploy不上去.
 执行hexo d就是没反应.不报错也没输出.

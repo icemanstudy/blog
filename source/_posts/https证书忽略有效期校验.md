@@ -8,6 +8,8 @@ tags:
 - https
 index_img:
 - /img/post/18.jpg
+excerpt:
+- 如何看待"淘气"的用户修改手机时间导致https全部失效?
 ---
 
 最近公司的数据统计平台报了大量ssl证书错误.类似于这种

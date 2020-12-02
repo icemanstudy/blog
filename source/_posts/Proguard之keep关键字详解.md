@@ -6,6 +6,8 @@ categories:
 tags:
 index_img:
 - /img/post/19.jpg
+excerpt:
+- Proguard其实做的事情比你想象的要多.
 ---
 ### 原博客的图片丢失了,所以这是精简版,直接上结论.
 

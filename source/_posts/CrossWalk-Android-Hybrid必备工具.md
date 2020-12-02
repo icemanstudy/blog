@@ -6,6 +6,8 @@ categories:
 tags:
 index_img:
 - /img/post/8.jpg
+excerpt:
+- 这是一个比腾讯X5更牛逼的浏览器内核.
 ---
 Hybrid就不多说了.除非是到后期各种拼用户体验拼特效拼交互,否则各个公司都要用上一用.
 

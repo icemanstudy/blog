@@ -6,6 +6,8 @@ categories:
 tags:
 index_img:
 - /img/post/1.jpg
+excerpt:
+- MD大法好!
 ---
 \##不同等级的标题
 \###不同等级的标题

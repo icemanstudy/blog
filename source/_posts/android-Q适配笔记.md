@@ -5,6 +5,8 @@ categories: android
 tags:
 index_img:
 - /img/post/3.jpg
+excerpt:
+- 我们不是面向android Q适配.我们是面向应用市场适配.
 ---
 
 ### 关于非SDK接口管控

@@ -6,6 +6,8 @@ categories:
 tags:
 index_img:
 - /img/post/7.jpg
+excerpt:
+- Flutter混合开发初尝试.
 ---
 
 **现象:**  

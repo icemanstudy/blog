@@ -7,6 +7,8 @@ tags:
 - 跨平台
 index_img:
 - /img/post/16.jpg
+excerpt:
+- Flutter动画执行,其实挺low的.有点像android的属性动画.
 ---
 
 ### 核心类
