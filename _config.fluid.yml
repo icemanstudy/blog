@@ -598,9 +598,9 @@ post:
   # 评论插件
   # Comment plugin
   comments:
-    enable: false
+    enable: true
     # Options: disqus | valine | gitalk | utterances | changyan | livere | remark42 | twikoo
-    type: disqus
+    type: valine
 
 
 #---------------------------
@@ -657,12 +657,12 @@ gitalk:
 # Based on LeanCloud
 # See: https://valine.js.org/configuration.html
 valine:
-  appid:
-  appkey:
+  appid: 7DiEYzgBskLT3mj2MxBV0ihe-gzGzoHsz
+  appkey: rfIgwRMUNEo7pqoucFhculL9
   placeholder: 说点什么
   path: window.location.pathname
   avatar: retro
-  meta: ['nick', 'mail', 'link']
+  meta: ['nick', 'mail']
   pageSize: 10
   lang: zh-CN
   highlight: false
