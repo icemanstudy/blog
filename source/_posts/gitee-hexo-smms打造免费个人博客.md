@@ -2,7 +2,7 @@
 title: gitee+hexo+smms打造免费个人博客
 date: 2020-12-01 16:41:54
 categories:
-- 其他
+- 闲聊
 index_img:
 - https://i.loli.net/2020/12/01/ily1SYcpaZsqbHL.png
 excerpt:

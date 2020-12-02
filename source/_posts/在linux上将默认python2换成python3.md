@@ -2,8 +2,7 @@
 title: 在linux上将默认python2换成python3
 date: 2018-02-02 10:04:50
 categories:
-- python
-tags:
+- 杂技
 index_img:
 - /img/post/10.jpg
 excerpt:

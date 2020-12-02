@@ -2,8 +2,7 @@
 title: 'AS打开Flutter项目,原生android工程标红的问题'
 date: 2020-08-14 17:54:12
 categories:
-- Flutter
-tags:
+- 跨平台
 index_img:
 - /img/post/7.jpg
 excerpt:

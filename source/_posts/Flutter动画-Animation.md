@@ -2,8 +2,6 @@
 title: Flutter动画-Animation
 date: 2020-08-08 10:23:16
 categories:
-- Flutter
-tags:
 - 跨平台
 index_img:
 - /img/post/16.jpg

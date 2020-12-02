@@ -3,7 +3,6 @@ title: android的ImageView之ScaleType效果研究
 date: 2018-02-03 17:56:26
 categories:
 - android
-tags:
 index_img:
 - /img/post/4.jpg
 excerpt:

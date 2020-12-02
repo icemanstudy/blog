@@ -2,8 +2,7 @@
 title: python3操作excel文件
 date: 2018-02-02 10:01:32
 categories:
-- python
-tags:
+- 杂技
 index_img:
 - /img/post/20.jpg
 excerpt:

@@ -2,8 +2,7 @@
 title: hexo d没反应的问题
 date: 2018-02-01 15:34:11
 categories:
-- 其他
-tags:
+- 杂技
 index_img:
 - /img/post/17.jpg
 excerpt:

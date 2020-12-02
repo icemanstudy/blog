@@ -2,7 +2,7 @@
 title: 常用markdown语法
 date: 2018-02-01 20:56:48
 categories:
-- 其他
+- 杂技
 tags:
 index_img:
 - /img/post/1.jpg
