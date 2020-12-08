@@ -34,7 +34,7 @@ excerpt:
  
 ###  编辑器
 
-Markdown编辑器的重要指标依次排序:
+个人选择Markdown编辑器的重要指标依次排序:
 1. 实时预览
 1. 便捷的工具条
 1. 左右分栏显示
@@ -86,6 +86,8 @@ SM.MS在众多收费图床中是一股清流.
 本文使用的是[hexo](https://hexo.io/zh-cn/),基于nodejs开发,操作简单,而且有各种主题支持.
 
 ![](https://i.loli.net/2020/12/01/GxIt4CRpi2L3rJs.png)
+
+顺便介绍本文使用的主题:[Fluid](https://github.com/fluid-dev/hexo-theme-fluid),卡片布局,简单大气.
 
 ## 博客部署
 
