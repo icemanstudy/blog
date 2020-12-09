@@ -2,7 +2,7 @@
 title: 轻量级的跨平台UI动态化方案-yoga
 date: 2020-01-06 17:52:44
 categories:
-- android
+- 跨平台
 index_img:
 - /img/post/5.jpg
 excerpt:
