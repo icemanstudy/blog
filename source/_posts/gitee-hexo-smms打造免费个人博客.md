@@ -73,7 +73,7 @@ SM.MS在众多收费图床中是一股清流.
 
 ![](https://i.loli.net/2020/12/01/1XLv7cAOBaPx9sn.png)
 
-其支持的图床中,要么需要收费,要么需要绑定域名,未读前面所说的SM.MS都不需要.完美.
+其支持的图床中,要么需要收费,要么需要绑定域名,唯独前面所说的SM.MS都不需要.完美.
 
 使用起来也很简单,去图床上申请token,填入picgo即可.
 
@@ -109,8 +109,20 @@ SM.MS在众多收费图床中是一股清流.
 
 - Gitee Pages提供部署容器.
 - Hexo提供页面生成技术.
-- SM.MS+PicGo提供快捷图片上传和使用.
+- PicGo提供快捷图片上传和使用,支持多个图床.
 - 有道云笔记提供Markdown编辑器功能.
 
-本博客所使用的主题:[Fluid](https://github.com/fluid-dev/hexo-theme-fluid).
 
+---
+2020.12.17更新.
+
+用下来发现Gitee速度挺快.加之Picgo又有第三方开发的Gitee图床插件.于是将图床从sm.ms换成gitee.
+注意:据说gitee上传图片不能超过1m,日常截图上传不用担心.
+
+插件使用方式:
+
+1. Gitee新建一个仓库.记得初始化master分支,仓库设置为**公开**.
+1. picgo-插件设置中搜索"gitee",安装图中所示的即可.
+![](https://gitee.com/icemanbin/imagelib/raw/master/20201217092144.png)
+1. 安装完毕后,"图床设置"中会出现Gitee图床.按图配置.
+![](https://gitee.com/icemanbin/imagelib/raw/master/20201217092506.png)
